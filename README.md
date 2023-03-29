@@ -5,9 +5,9 @@ My name is
 # **Lina Zilinske** ✨
 I am Data Analyst.
 
-I am still learning at Turing College however please have a look at my projects while studying. <br>
+I am still learning at **Turing College** however please have a look at my projects while studying. <br>
 I look forward to share and gain knowledge.
-<img src ="https://user-images.githubusercontent.com/117217908/221829791-45ac0a78-c030-49c3-80f4-e63fed949f24.jpg" width="300" height="200" align="right" alt= LinaZilinske> <br>
+<img src ="https://user-images.githubusercontent.com/117217908/221829791-45ac0a78-c030-49c3-80f4-e63fed949f24.jpg" width="400" height="300" align="right" alt= LinaZilinske> <br>
 
 
 I gained the following skills: <br>
