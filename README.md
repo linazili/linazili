@@ -3,7 +3,7 @@
 
 My name is 
 # **Lina Zilinske** ✨
-I am Data Analyst.
+I am Data Analyst 👩‍💻
 
 I am still learning at **Turing College** however please have a look at my projects while studying. <br>
 I look forward to share and gain knowledge.
