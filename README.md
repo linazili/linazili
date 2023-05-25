@@ -5,7 +5,7 @@ My name is
 # **Lina Zilinske** ✨
 I am Data Analyst 👩‍💻
 
-I am still learning at **Turing College** however please have a look at my projects while studying. <br>
+I am alumni of EU-Accredited **Turing College**. I am happy to share my some of my projects while studying. <br>
 I look forward to share and gain knowledge.
 <img src ="https://user-images.githubusercontent.com/117217908/221829791-45ac0a78-c030-49c3-80f4-e63fed949f24.jpg" width="400" height="300" align="right" alt= LinaZilinske> <br>
 
@@ -14,13 +14,13 @@ I gained the following skills: <br>
 ⚡ Databases: SQL, Relational databases, BigQuery <br>
 ⚡ Analytical Methods: Data cleaning, Cohort analysis, Retention analysis, Churn analysis, Funnel Analysis, Customer segmentation analysis, RFM & CL <br>
 ⚡ Data Visualization: Spreadsheets, Google Looker Studio, Dashboards, PowerPoint or other <br>
-⚡ Domain Knowledge: Product Analytics <br>
+⚡ Domain Knowledge: Product Analytics, Marketing Analytics, Payments Analytics, Monetization Analytics <br>
 ⚡ Statistics: A/B testing <br>
 
-🌱 I’m currently learning Marketing Analyst course <br>
-🔭 Will cover the following tasks within few months: <br>
-       - Payments Analytics <br>
-       - Monetization Analytics <br>
+🌱 I’m currently learning Risk Analytics <br>
+🔭 Still to be covered within few months: <br>
+       - Tableau <br>
+       - Python <br>
 
 
 <!--
