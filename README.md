@@ -12,7 +12,7 @@ I look forward to share and gain knowledge.
 
 I gained the following skills: <br>
 ⚡ Databases: SQL, Relational databases, BigQuery <br>
-⚡ Analytical Methods: Data cleaning, Cohort analysis, Retention analysis, Churn analysis, Funnel Analysis, Customer segmentation analysis, RFM & CL <br>
+⚡ Analytical Methods: Data cleaning, Cohort analysis, Retention analysis, Churn analysis, Funnel Analysis, Customer segmentation analysis, RFM & CLV <br>
 ⚡ Data Visualization: Spreadsheets, Google Looker Studio, Dashboards, PowerPoint or other <br>
 ⚡ Domain Knowledge: Product Analytics, Marketing Analytics, Payments Analytics, Monetization Analytics <br>
 ⚡ Statistics: A/B testing <br>
