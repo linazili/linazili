@@ -15,7 +15,8 @@ I gained the following skills: <br>
 ⚡ Analytical Methods: Data cleaning, Cohort analysis, Retention analysis, Churn analysis, Funnel Analysis, Customer segmentation analysis, RFM & CLV <br>
 ⚡ Data Visualization: Spreadsheets, Google Looker Studio, Dashboards, PowerPoint or other <br>
 ⚡ Domain Knowledge: Product Analytics, Marketing Analytics, Payments Analytics, Monetization Analytics <br>
-⚡ Statistics: A/B testing <br>
+⚡ Statistics: A/B testing, Linear and Logistic regression <br>
+
 
 🌱 I’m currently learning Risk Analytics <br>
 🔭 Still to be covered within few months: <br>
